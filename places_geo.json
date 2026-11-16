@@ -1,0 +1,725 @@
+{
+"1101 Orchard St, Toledo, OH": {
+"lat": 41.62775,
+"lon": -83.56751,
+"n": "1101, Orchard Street, Toledo, Lucas County, Ohio, 43609, United States",
+"t": "place"
+},
+"228 Yosemite Dr, , Toledo OH, 43614": {
+"lat": 41.61082,
+"lon": -83.59398,
+"n": "Yosemite Drive, Toledo, Lucas County, Ohio, 43614, United States",
+"t": "road"
+},
+"2361 Wildwood Blvd, , Toledo OH, 43614": {
+"lat": 41.60664,
+"lon": -83.60201,
+"n": "2361, Wildwood Boulevard, Beverly, Gould, Toledo, Lucas County, Ohio, 43614, Uni",
+"t": "place"
+},
+"639 Carlton St, , Toledo OH": {
+"lat": 41.62787,
+"lon": -83.57802,
+"n": "639, Carlton Street, Toledo, Lucas County, Ohio, 43609, United States",
+"t": "place"
+},
+"734 Brighton Ave, Toledo, OH": {
+"lat": 41.6269,
+"lon": -83.58155,
+"n": "734, Brighton Avenue, Woodsdale, Toledo, Lucas County, Ohio, 43609, United State",
+"t": "place"
+},
+"782 Durango Dr, , Toledo OH, 43614": {
+"lat": 41.62537,
+"lon": -83.60558,
+"n": "782, Durango Drive, Nasby, Toledo, Lucas County, Ohio, 43609, United States",
+"t": "place"
+},
+"878 Colbern St, , Toledo OH": {
+"lat": 41.6337,
+"lon": -83.5635,
+"n": "878 Colburn St, Toledo, Ohio (spelling corrected)",
+"t": "place"
+},
+"910 Hampton Ave, , Toledo OH": {
+"lat": 41.62317,
+"lon": -83.58268,
+"n": "910, Hampton Avenue, Woodsdale, Toledo, Lucas County, Ohio, 43609, United States",
+"t": "place"
+},
+"Albany, NY": {
+"lat": 42.65117,
+"lon": -73.75497,
+"n": "City of Albany, Albany County, New York, United States",
+"t": "city"
+},
+"Arrived in New York City from Hamburg via the ship \"Columbia\"": {
+"lat": 40.71273,
+"lon": -74.00602,
+"n": "New York, United States",
+"t": "city"
+},
+"Ashland Co, OH": {
+"lat": 40.78874,
+"lon": -82.23604,
+"n": "Ashland County, Ohio, United States",
+"t": "county"
+},
+"Auvergne, France": {
+"lat": 45.71001,
+"lon": 3.15318,
+"n": "Auvergne, France métropolitaine, France",
+"t": "historic"
+},
+"Baden, Germany": {
+"lat": 49.00687,
+"lon": 8.40342,
+"n": "Karlsruhe, Baden-Württemberg, Deutschland",
+"t": "city"
+},
+"Bavaria, Germany": {
+"lat": 48.94676,
+"lon": 11.40387,
+"n": "Bayern, Deutschland",
+"t": "state"
+},
+"Beauport": {
+"lat": 46.89835,
+"lon": -71.20629,
+"n": "Beauport, Québec, Agglomération de Québec, Capitale-Nationale, Québec, Canada",
+"t": "city_district"
+},
+"Berks Co, PA": {
+"lat": 40.41138,
+"lon": -75.94333,
+"n": "Berks County, Pennsylvania, United States",
+"t": "county"
+},
+"Berthier, Quebec, New France": {
+"lat": 46.08281,
+"lon": -73.17471,
+"n": "Berthierville, D'Autray, Lanaudière, Québec, J0K 1A0, Canada",
+"t": "village"
+},
+"Bramche, Germany": {
+"lat": 52.42006,
+"lon": 8.01186,
+"n": "Bramsche, Landkreis Osnabrück, Niedersachsen, 49565, Deutschland",
+"t": "city"
+},
+"Brandenburg, Germany": {
+"lat": 52.84555,
+"lon": 13.24613,
+"n": "Brandenburg, Deutschland",
+"t": "state"
+},
+"Brazil": {
+"lat": -8.05849,
+"lon": -34.88482,
+"n": "Recife, Pernambuco, Região Nordeste, Brasil",
+"t": "city"
+},
+"Canada": {
+"lat": 46.81,
+"lon": -71.21,
+"n": "Québec, Canada (New France)",
+"t": "city"
+},
+"Canton County, PA or Canton, Stark, OH": {
+"lat": 40.79855,
+"lon": -81.37495,
+"n": "Canton, Stark County, Ohio, United States",
+"t": "city"
+},
+"Centre Co, PA": {
+"lat": 40.93817,
+"lon": -77.78657,
+"n": "Centre County, Pennsylvania, United States",
+"t": "county"
+},
+"Champlain, Quebec, New France": {
+"lat": 46.44141,
+"lon": -72.34394,
+"n": "Champlain, Les Chenaux, Mauricie, Québec, G0X 1C0, Canada",
+"t": "village"
+},
+"Charlesbourg, Quebec, New France": {
+"lat": 46.89565,
+"lon": -71.29083,
+"n": "Charlesbourg, Québec, Agglomération de Québec, Capitale-Nationale, Québec, Canad",
+"t": "city_district"
+},
+"Charlesburg, Quebec, New France": {
+"lat": 46.89565,
+"lon": -71.29083,
+"n": "Charlesbourg, Québec, Agglomération de Québec, Capitale-Nationale, Québec, Canad",
+"t": "city_district"
+},
+"Chicago, IL": {
+"lat": 41.87556,
+"lon": -87.62442,
+"n": "Chicago, South Chicago Township, Cook County, Illinois, United States",
+"t": "city"
+},
+"Cincinnati, OH (University of Cincinnati)": {
+"lat": 39.12942,
+"lon": -84.5205,
+"n": "University of Cincinnati, Clifton Avenue, Uptown Cincinnati, University Heights,",
+"t": "highway"
+},
+"Co. Fermanagh, Ireland": {
+"lat": 54.3244,
+"lon": -7.7224,
+"n": "County Fermanagh, Northern Ireland / Tuaisceart Éireann, United Kingdom",
+"t": "county"
+},
+"Colony of Swaanendael, DE": {
+"lat": 38.7734,
+"lon": -75.13796,
+"n": "Lewes, Sussex County, Delaware, United States",
+"t": "town"
+},
+"DeKalb Co, IN": {
+"lat": 41.39915,
+"lon": -85.00124,
+"n": "DeKalb County, Indiana, United States",
+"t": "county"
+},
+"DeKalb Co, IN (New Evergreen Cemetery)": {
+"lat": 41.39915,
+"lon": -85.00124,
+"n": "DeKalb County, Indiana, United States",
+"t": "county"
+},
+"Detroit": {
+"lat": 42.33155,
+"lon": -83.04664,
+"n": "Detroit, Wayne County, Michigan, United States",
+"t": "city"
+},
+"Detroit, Canada": {
+"lat": 42.33155,
+"lon": -83.04664,
+"n": "Detroit, Wayne County, Michigan, United States",
+"t": "city"
+},
+"Detroit, Upper Canada": {
+"lat": 42.33155,
+"lon": -83.04664,
+"n": "Detroit, Wayne County, Michigan, United States",
+"t": "city"
+},
+"Drumgarrow Co., Fermanagh, Ireland": {
+"lat": 54.3244,
+"lon": -7.7224,
+"n": "County Fermanagh, Northern Ireland / Tuaisceart Éireann, United Kingdom",
+"t": "county"
+},
+"Dutch Colony, Brazil": {
+"lat": -8.05849,
+"lon": -34.88482,
+"n": "Recife, Pernambuco, Região Nordeste, Brasil",
+"t": "city"
+},
+"Dutchess, NY": {
+"lat": 41.71943,
+"lon": -73.75162,
+"n": "Dutchess County, New York, United States",
+"t": "county"
+},
+"Elkhart, IN": {
+"lat": 41.682,
+"lon": -85.9767,
+"n": "Elkhart, Indiana",
+"t": "city"
+},
+"England": {
+"lat": 52.53102,
+"lon": -1.26491,
+"n": "England, United Kingdom",
+"t": "state"
+},
+"Erie County, PA": {
+"lat": 42.1823,
+"lon": -80.14108,
+"n": "Erie County, Pennsylvania, United States",
+"t": "county"
+},
+"Essex, England": {
+"lat": 51.77047,
+"lon": 0.46467,
+"n": "Essex, England, United Kingdom",
+"t": "county"
+},
+"Fishkill, NY": {
+"lat": 41.53557,
+"lon": -73.8987,
+"n": "Town of Fishkill, Dutchess County, New York, United States",
+"t": "town"
+},
+"Flatbush Long Island, New York": {
+"lat": 40.65205,
+"lon": -73.95903,
+"n": "Flatbush, Brooklyn, Kings County, New York, 11226, United States",
+"t": "quarter"
+},
+"Flatbush, Kings, NY": {
+"lat": 40.65205,
+"lon": -73.95903,
+"n": "Flatbush, Brooklyn, Kings County, New York, 11226, United States",
+"t": "quarter"
+},
+"Flatbush, NY": {
+"lat": 40.65205,
+"lon": -73.95903,
+"n": "Flatbush, Brooklyn, Kings County, New York, 11226, United States",
+"t": "quarter"
+},
+"Fourcoin, Luxembourg": {
+"lat": 49.81587,
+"lon": 6.12968,
+"n": "Lëtzebuerg",
+"t": "country"
+},
+"Frenchtown, Monroe Co, MI": {
+"lat": 41.96208,
+"lon": -83.35763,
+"n": "Frenchtown Charter Township, Monroe County, Michigan, United States",
+"t": "town"
+},
+"Germany": {
+"lat": 51.16382,
+"lon": 10.44783,
+"n": "Deutschland",
+"t": "country"
+},
+"Glencorrnira, Co. Fermanagh, Ireland": {
+"lat": 54.3244,
+"lon": -7.7224,
+"n": "County Fermanagh, Northern Ireland / Tuaisceart Éireann, United Kingdom",
+"t": "county"
+},
+"Gowanus": {
+"lat": 40.67917,
+"lon": -73.9885,
+"n": "Gowanus, Brooklyn, Kings County, New York, 11217, United States",
+"t": "neighbourhood"
+},
+"Grondines, Quebec, New France": {
+"lat": 46.59266,
+"lon": -72.04063,
+"n": "Grondines, Deschambault-Grondines, Portneuf (MRC), Capitale-Nationale, Québec, G",
+"t": "village"
+},
+"Hempstead, Long Island, NY": {
+"lat": 40.67368,
+"lon": -73.61907,
+"n": "Town of Hempstead, Nassau County, New York, United States",
+"t": "municipality"
+},
+"Herricks, Long Island, NY": {
+"lat": 40.75725,
+"lon": -73.6633,
+"n": "Herricks, Hillside Manor, Herricks, Town of North Hempstead, Nassau County, New ",
+"t": "census"
+},
+"Holland": {
+"lat": 52.2435,
+"lon": 5.63432,
+"n": "Nederland",
+"t": "country"
+},
+"Holland, OH": {
+"lat": 41.62172,
+"lon": -83.7116,
+"n": "Holland, Springfield Township, Lucas County, Ohio, United States",
+"t": "village"
+},
+"Ida Twp, Monroe, MI": {
+"lat": 41.86442,
+"lon": -83.59085,
+"n": "Ida Township, Monroe County, Michigan, 48140, United States",
+"t": "town"
+},
+"Ireland": {
+"lat": 52.8652,
+"lon": -7.97946,
+"n": "Éire / Ireland",
+"t": "country"
+},
+"Jamaica Dutch Church": {
+"lat": 40.69984,
+"lon": -73.8077,
+"n": "Jamaica, Sutphin Boulevard, Queens, Queens County, New York, 11435, United State",
+"t": "railway"
+},
+"Kendallville, IN": {
+"lat": 41.44144,
+"lon": -85.26498,
+"n": "Kendallville, Noble County, Indiana, 46755, United States",
+"t": "town"
+},
+"Kingston, NY": {
+"lat": 41.92878,
+"lon": -74.00238,
+"n": "City of Kingston, Ulster County, New York, 12401, United States",
+"t": "city"
+},
+"La Rochelle, Aunis, France": {
+"lat": 46.15973,
+"lon": -1.1516,
+"n": "La Rochelle, Charente-Maritime, Nouvelle-Aquitaine, France métropolitaine, 17000",
+"t": "city"
+},
+"LaPrairie, Quebec, Canada": {
+"lat": 45.41755,
+"lon": -73.48914,
+"n": "La Prairie, Roussillon, Montérégie, Québec, Canada",
+"t": "town"
+},
+"LaPrairie, Quebec, New France": {
+"lat": 45.41755,
+"lon": -73.48914,
+"n": "La Prairie, Roussillon, Montérégie, Québec, Canada",
+"t": "town"
+},
+"Lauenbury, Germany": {
+"lat": 53.37898,
+"lon": 10.55139,
+"n": "Lauenburg/Elbe, Kreis Herzogtum Lauenburg, Schleswig-Holstein, Deutschland",
+"t": "town"
+},
+"Lucas Co., OH": {
+"lat": 41.65084,
+"lon": -83.62132,
+"n": "Lucas County, Ohio, United States",
+"t": "county"
+},
+"Luxembourg": {
+"lat": 49.81587,
+"lon": 6.12968,
+"n": "Lëtzebuerg",
+"t": "country"
+},
+"Manhattan Twp, Lucas County, OH": {
+"lat": 41.65291,
+"lon": -83.53782,
+"n": "Toledo, Lucas County, Ohio, United States",
+"t": "city"
+},
+"Maumee, Lucas Co., OH": {
+"lat": 41.56283,
+"lon": -83.65382,
+"n": "Maumee, Lucas County, Ohio, United States",
+"t": "town"
+},
+"Milwaukee, WI": {
+"lat": 43.03865,
+"lon": -87.90908,
+"n": "Milwaukee, Milwaukee County, Wisconsin, United States",
+"t": "city"
+},
+"Montreal, Canada": {
+"lat": 45.50318,
+"lon": -73.56981,
+"n": "Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, C",
+"t": "city"
+},
+"Montreal, New France": {
+"lat": 45.50318,
+"lon": -73.56981,
+"n": "Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, C",
+"t": "city"
+},
+"Montreal, Quebec, New France": {
+"lat": 45.50318,
+"lon": -73.56981,
+"n": "Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, C",
+"t": "city"
+},
+"NJ": {
+"lat": 40.07574,
+"lon": -74.40416,
+"n": "New Jersey, United States",
+"t": "state"
+},
+"NY": {
+"lat": 43.15617,
+"lon": -75.84499,
+"n": "New York, United States",
+"t": "state"
+},
+"Napoleon, OH": {
+"lat": 41.39227,
+"lon": -84.12522,
+"n": "Napoleon, Napoleon Township, Henry County, Ohio, 43545, United States",
+"t": "city"
+},
+"Neederhausen, Germany": {
+"lat": 49.80269,
+"lon": 7.78332,
+"n": "Niederhausen, Rüdesheim, Landkreis Bad Kreuznach, Rheinland-Pfalz, Deutschland",
+"t": "village"
+},
+"Newton, Long Island, N.Y.": {
+"lat": 40.73722,
+"lon": -73.87722,
+"n": "Grand Avenue–Newtown, Broadway, Elmhurst, Queens, Queens County, New York, 11373",
+"t": "railway"
+},
+"Newtown, Queens, NY": {
+"lat": 40.73722,
+"lon": -73.87722,
+"n": "Grand Avenue–Newtown, Broadway, Elmhurst, Queens, Queens County, New York, 11373",
+"t": "railway"
+},
+"Niagra-on-the-Lake, Canada": {
+"lat": 43.25561,
+"lon": -79.07233,
+"n": "Niagara-on-the-Lake, Niagara Region, Ontario, Canada",
+"t": "town"
+},
+"Noble Co, IN": {
+"lat": 41.39907,
+"lon": -85.41933,
+"n": "Noble County, Indiana, United States",
+"t": "county"
+},
+"OH": {
+"lat": 40.22536,
+"lon": -82.68814,
+"n": "Ohio, United States",
+"t": "state"
+},
+"Ohio": {
+"lat": 40.22536,
+"lon": -82.68814,
+"n": "Ohio, United States",
+"t": "state"
+},
+"Ottawa, OH": {
+"lat": 41.0195,
+"lon": -84.0472,
+"n": "Ottawa, Putnam County, Ohio",
+"t": "village"
+},
+"Ottawa, Putnam Co, OH": {
+"lat": 41.01922,
+"lon": -84.04717,
+"n": "Ottawa, Ottawa Township, Putnam County, Ohio, 45875, United States",
+"t": "village"
+},
+"Overyssel, Holland": {
+"lat": 52.42541,
+"lon": 6.46106,
+"n": "Overijssel, Nederland",
+"t": "state"
+},
+"PA": {
+"lat": 40.96999,
+"lon": -77.72788,
+"n": "Pennsylvania, United States",
+"t": "state"
+},
+"Point Place, OH": {
+"lat": 41.71894,
+"lon": -83.47938,
+"n": "Point Place, Toledo, Lucas County, Ohio, 43611, United States",
+"t": "neighbourhood"
+},
+"Port Clinton, OH": {
+"lat": 41.512,
+"lon": -82.93769,
+"n": "Port Clinton, Ottawa County, Ohio, United States",
+"t": "town"
+},
+"Posen, Germany": {
+"lat": 52.40066,
+"lon": 16.91973,
+"n": "Poznań, powiat poznański, województwo wielkopolskie, Polska",
+"t": "administrative"
+},
+"Priitzke, Germany": {
+"lat": 52.4982,
+"lon": 12.45429,
+"n": "Pritzerbe, Havelsee, Amt Beetzsee, Potsdam-Mittelmark, Brandenburg, 14798, Deuts",
+"t": "suburb"
+},
+"Putnam Co, OH": {
+"lat": 41.06777,
+"lon": -84.16869,
+"n": "Putnam County, Ohio, United States",
+"t": "county"
+},
+"Quebec": {
+"lat": 46.81,
+"lon": -71.21,
+"n": "Québec, Canada",
+"t": "city"
+},
+"Quebec City, Quebec, New France": {
+"lat": 46.81374,
+"lon": -71.20841,
+"n": "Québec, Agglomération de Québec, Capitale-Nationale, Québec, Canada",
+"t": "city"
+},
+"Rochester or Oswego, NY": {
+"lat": 43.4113,
+"lon": -76.12798,
+"n": "Oswego County, New York, United States",
+"t": "county"
+},
+"Runbout Precinct, Dutchess Co, NY": {
+"lat": 41.53557,
+"lon": -73.8987,
+"n": "Town of Fishkill, Dutchess County, New York, United States",
+"t": "town"
+},
+"South Dakota": {
+"lat": 44.64718,
+"lon": -100.34876,
+"n": "South Dakota, United States",
+"t": "state"
+},
+"Springfield Township, Lucas Co., OH": {
+"lat": 41.62172,
+"lon": -83.7116,
+"n": "Holland, Springfield Township, Lucas County, Ohio, United States",
+"t": "village"
+},
+"St Antoine River Raisin, MI": {
+"lat": 41.91534,
+"lon": -83.51357,
+"n": "Monroe County, Michigan, United States",
+"t": "county"
+},
+"St Antoine, Monroe Co, MI": {
+"lat": 41.91534,
+"lon": -83.51357,
+"n": "Monroe County, Michigan, United States",
+"t": "county"
+},
+"St Laurent, Isle Orleans, Quebec, New France": {
+"lat": 46.86021,
+"lon": -71.00652,
+"n": "Saint-Laurent-de-l'Île-d'Orléans, L'Île-d'Orléans, Capitale-Nationale, Québec, G",
+"t": "village"
+},
+"Sterling, Cayuga Co., NY": {
+"lat": 43.3259,
+"lon": -76.64495,
+"n": "Town of Sterling, Cayuga County, New York, United States",
+"t": "village"
+},
+"Stillwater, Saratoga Co., NY": {
+"lat": 42.93841,
+"lon": -73.65317,
+"n": "Village of Stillwater, Town of Stillwater, Saratoga County, New York, United Sta",
+"t": "village"
+},
+"Sylvania, OH (Toledo Memorial Park)": {
+"lat": 41.7208,
+"lon": -83.69607,
+"n": "Toledo Memorial Park, Sylvania, Sylvania Township, Lucas County, Ohio, United St",
+"t": "cemetery"
+},
+"Syracuse, NY": {
+"lat": 43.04812,
+"lon": -76.14742,
+"n": "City of Syracuse, Onondaga County, New York, United States",
+"t": "city"
+},
+"Toledo, OH": {
+"lat": 41.65291,
+"lon": -83.53782,
+"n": "Toledo, Lucas County, Ohio, United States",
+"t": "city"
+},
+"Toledo, OH (Calvary Cemetery)": {
+"lat": 41.65699,
+"lon": -83.59737,
+"n": "Calvary Cemetery, Vulcan, Toledo, Lucas County, Ohio, United States",
+"t": "cemetery"
+},
+"Toledo, OH (Forest Cemetery)": {
+"lat": 41.67144,
+"lon": -83.52372,
+"n": "Forest Cemetery, Toledo, Lucas County, Ohio, United States",
+"t": "cemetery"
+},
+"Toledo, OH (Libbey High School)": {
+"lat": 41.65291,
+"lon": -83.53782,
+"n": "Toledo, Lucas County, Ohio, United States",
+"t": "city"
+},
+"Toledo, OH (State Line Cemetery)": {
+"lat": 41.65291,
+"lon": -83.53782,
+"n": "Toledo, Lucas County, Ohio, United States",
+"t": "city"
+},
+"Toledo, OH (University of Toledo)": {
+"lat": 41.6584,
+"lon": -83.61479,
+"n": "The University of Toledo, 2801, West Bancroft Street, University Hills, Toledo, ",
+"t": "amenity"
+},
+"Town of Cambria, Niagara Co., NY (North Ridge Cemetery)": {
+"lat": 43.21152,
+"lon": -78.8499,
+"n": "North Ridge Cemetery, Town of Cambria, Niagara County, New York, United States",
+"t": "cemetery"
+},
+"Town of Porter, Niagara Co., NY": {
+"lat": 43.25355,
+"lon": -78.96889,
+"n": "Town of Porter, Niagara County, New York, 14174, United States",
+"t": "municipality"
+},
+"Trinity, FL": {
+"lat": 28.18016,
+"lon": -82.65421,
+"n": "Trinity, Pasco County, Florida, 35655, United States",
+"t": "town"
+},
+"Waterloo, DeKalb Co, IN": {
+"lat": 41.43184,
+"lon": -85.02139,
+"n": "Waterloo, DeKalb County, Indiana, United States",
+"t": "village"
+},
+"Wayne Co, OH": {
+"lat": 40.86158,
+"lon": -81.90346,
+"n": "Wayne County, Ohio, United States",
+"t": "county"
+},
+"Wiltwyck, New Amsterdam (NY)": {
+"lat": 41.92878,
+"lon": -74.00238,
+"n": "City of Kingston, Ulster County, New York, United States",
+"t": "city"
+},
+"Yorkshire, England": {
+"lat": 53.98253,
+"lon": -1.38525,
+"n": "Yorkshire, England, United Kingdom",
+"t": "traditional"
+},
+"Youngstown, Niagara, NY": {
+"lat": 43.24748,
+"lon": -79.05011,
+"n": "Village of Youngstown, Town of Porter, Niagara County, New York, United States",
+"t": "village"
+},
+"Zweickirchen, Rhenish, Bavaria": {
+"lat": 49.24865,
+"lon": 7.3642,
+"n": "Zweibrücken, Rheinland-Pfalz, 66482, Deutschland",
+"t": "town"
+},
+"at Sea, off the coast of Guiana": null,
+"parish of St Hilaire sur Lotize diocese": null,
+"parish of St Jean de Sanac diocese": null
+}

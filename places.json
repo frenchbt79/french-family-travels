@@ -1,0 +1,1610 @@
+{
+"note": "Stops per trip. src: gps = photo GPS + camera clock (exact); itin = the book's itinerary/captions (date of visit, no time).",
+"home": {
+"name": "Toledo, Ohio",
+"sub": "1566 South Avenue · where the French family story begins",
+"lat": 41.6528,
+"lon": -83.5379
+},
+"trips": [
+{
+"key": "italy",
+"stops": [
+[
+"Rome",
+"Colosseum, Forum, Pantheon",
+41.8902,
+12.4922,
+"2004-07-13",
+null,
+"itin"
+],
+[
+"Pompeii",
+"The buried Roman city",
+40.7486,
+14.4848,
+"2004-07-14",
+null,
+"itin"
+],
+[
+"Isle of Capri",
+"Two nights on the island",
+40.5532,
+14.2222,
+"2004-07-14",
+null,
+"itin"
+],
+[
+"Sorrento",
+"Along the Amalfi coast",
+40.6263,
+14.3758,
+"2004-07-16",
+null,
+"itin"
+],
+[
+"Monte Cassino",
+"The hilltop abbey",
+41.4903,
+13.8139,
+"2004-07-16",
+null,
+"itin"
+],
+[
+"Assisi",
+"Basilica of St. Francis",
+43.0707,
+12.6196,
+"2004-07-17",
+null,
+"itin"
+],
+[
+"Ravenna",
+"Byzantine mosaics",
+44.4184,
+12.2035,
+"2004-07-17",
+null,
+"itin"
+],
+[
+"Venice",
+"St. Mark's, the Grand Canal",
+45.4341,
+12.3388,
+"2004-07-18",
+null,
+"itin"
+],
+[
+"Padua",
+"Basilica of St. Anthony",
+45.4064,
+11.8768,
+"2004-07-19",
+null,
+"itin"
+],
+[
+"Pisa",
+"The Leaning Tower",
+43.723,
+10.3966,
+"2004-07-19",
+null,
+"itin"
+],
+[
+"Montecatini",
+"Base in the Tuscan hills",
+43.8826,
+10.7737,
+"2004-07-19",
+null,
+"itin"
+],
+[
+"Florence",
+"The Duomo and Ponte Vecchio",
+43.7731,
+11.256,
+"2004-07-20",
+null,
+"itin"
+],
+[
+"Siena",
+"Piazza del Campo",
+43.3188,
+11.3308,
+"2004-07-21",
+null,
+"itin"
+],
+[
+"Vatican City",
+"St. Peter's Basilica",
+41.9022,
+12.4539,
+"2004-07-22",
+null,
+"itin"
+]
+]
+},
+{
+"key": "gb",
+"stops": [
+[
+"Staines-upon-Thames",
+"Arrival in England",
+51.434,
+-0.511,
+"2007-07-12",
+null,
+"itin"
+],
+[
+"London",
+"Big Ben, the Tower, Buckingham Palace",
+51.5007,
+-0.1246,
+"2007-07-13",
+null,
+"itin"
+],
+[
+"Hampstead",
+"Hampstead Heath and the village",
+51.556,
+-0.178,
+"2007-07-14",
+null,
+"itin"
+],
+[
+"Windsor",
+"Windsor Castle",
+51.4839,
+-0.6044,
+"2007-07-16",
+null,
+"itin"
+],
+[
+"Stonehenge",
+"The stone circle on Salisbury Plain",
+51.1789,
+-1.8262,
+"2007-07-17",
+null,
+"itin"
+],
+[
+"Bath",
+"Roman baths and the Royal Crescent",
+51.3811,
+-2.359,
+"2007-07-17",
+null,
+"itin"
+],
+[
+"York",
+"York Minster and the Shambles",
+53.962,
+-1.0819,
+"2007-07-20",
+null,
+"itin"
+],
+[
+"North York Moors",
+"Heather moors and villages",
+54.38,
+-0.88,
+"2007-07-21",
+null,
+"itin"
+]
+]
+},
+{
+"key": "scotland",
+"stops": [
+[
+"Edinburgh",
+"The Castle and the Royal Mile",
+55.9486,
+-3.1999,
+"2007-07-24",
+null,
+"itin"
+],
+[
+"Stirling Castle",
+"Seat of Scottish kings",
+56.1239,
+-3.9478,
+"2007-07-26",
+null,
+"itin"
+],
+[
+"Aberfeldy",
+"Dewar's distillery",
+56.6202,
+-3.865,
+"2007-07-27",
+null,
+"itin"
+],
+[
+"Weem",
+"Castle Menzies and the Highlands",
+56.6346,
+-3.889,
+"2007-07-27",
+null,
+"itin"
+]
+]
+},
+{
+"key": "paris",
+"stops": [
+[
+"The Louvre",
+"Arrival and the Louvre",
+48.8606,
+2.3376,
+"2007-07-30",
+null,
+"itin"
+],
+[
+"Notre-Dame",
+"Gray Line tour and the cathedral",
+48.853,
+2.3499,
+"2007-07-31",
+null,
+"itin"
+],
+[
+"Eiffel Tower",
+"Evening on the tower",
+48.8584,
+2.2945,
+"2007-07-31",
+null,
+"itin"
+],
+[
+"Musée d'Orsay",
+"Impressionists",
+48.86,
+2.3266,
+"2007-08-01",
+null,
+"itin"
+],
+[
+"Sainte-Chapelle",
+"Stained glass",
+48.8554,
+2.345,
+"2007-08-01",
+null,
+"itin"
+]
+]
+},
+{
+"key": "amsterdam",
+"stops": [
+[
+"Amsterdam",
+"Train from Paris, canals and houseboats",
+52.3731,
+4.8926,
+"2007-08-02",
+null,
+"itin"
+],
+[
+"Anne Frank House",
+"On the Prinsengracht",
+52.3752,
+4.884,
+"2007-08-03",
+null,
+"itin"
+],
+[
+"Rijksmuseum",
+"Rembrandt and the Dutch masters",
+52.36,
+4.8852,
+"2007-08-03",
+null,
+"itin"
+],
+[
+"Van Gogh Museum",
+"Sunflowers",
+52.3584,
+4.8811,
+"2007-08-04",
+null,
+"itin"
+]
+]
+},
+{
+"key": "pb2019",
+"stops": [
+[
+"Beijing",
+"Tiananmen, the Forbidden City, the Great Wall",
+39.9163,
+116.3972,
+"2013-09-10",
+null,
+"itin"
+],
+[
+"Xi'an",
+"The Terracotta Warriors",
+34.3845,
+109.2785,
+"2013-09-14",
+null,
+"itin"
+],
+[
+"Chongqing",
+"Boarding the Viking Emerald",
+29.563,
+106.5516,
+"2013-09-16",
+null,
+"itin"
+],
+[
+"Shibaozhai",
+"The Precious Stone Fortress",
+30.4228,
+108.1745,
+"2013-09-17",
+null,
+"itin"
+],
+[
+"Three Gorges",
+"Qutang, Wu and Xiling gorges",
+30.8231,
+111.0034,
+"2013-09-18",
+null,
+"itin"
+],
+[
+"Jingzhou",
+"The ancient city wall",
+30.3349,
+112.2392,
+"2013-09-19",
+null,
+"itin"
+],
+[
+"Wuhan",
+"Yellow Crane Tower",
+30.5928,
+114.3055,
+"2013-09-20",
+null,
+"itin"
+],
+[
+"Shanghai",
+"The Bund and the Shanghai Museum",
+31.2304,
+121.4737,
+"2013-09-21",
+null,
+"itin"
+]
+]
+},
+{
+"key": "germany",
+"stops": [
+[
+"Frankfurt",
+"The tour group gathers",
+50.1109,
+8.6821,
+"2016-07-01",
+null,
+"itin"
+],
+[
+"Cologne",
+"Cologne Cathedral",
+50.9413,
+6.9583,
+"2016-07-02",
+null,
+"itin"
+],
+[
+"Hamburg",
+"The harbor city",
+53.5511,
+9.9937,
+"2016-07-03",
+null,
+"itin"
+],
+[
+"Berlin",
+"Brandenburg Gate and Berlin's secret past",
+52.5163,
+13.3777,
+"2016-07-04",
+null,
+"itin"
+],
+[
+"Dresden",
+"The rebuilt Frauenkirche",
+51.0519,
+13.7415,
+"2016-07-06",
+null,
+"itin"
+],
+[
+"Nuremberg",
+"The old walled city",
+49.4521,
+11.0767,
+"2016-07-07",
+null,
+"itin"
+],
+[
+"Rothenburg",
+"Medieval Rothenburg ob der Tauber",
+49.3772,
+10.1867,
+"2016-07-08",
+null,
+"itin"
+],
+[
+"Munich",
+"Marienplatz",
+48.1374,
+11.5755,
+"2016-07-09",
+null,
+"itin"
+],
+[
+"Dachau",
+"The memorial",
+48.2699,
+11.4683,
+"2016-07-10",
+null,
+"itin"
+],
+[
+"Black Forest",
+"Lakes and cuckoo clocks",
+47.999,
+8.2,
+"2016-07-11",
+null,
+"itin"
+],
+[
+"Heidelberg",
+"The castle above the Neckar",
+49.4106,
+8.7153,
+"2016-07-11",
+null,
+"itin"
+]
+]
+},
+{
+"key": "viking",
+"stops": [
+[
+"Stockholm",
+"Gamla Stan and the Royal Palace",
+59.3251,
+18.0711,
+"2016-07-16",
+null,
+"itin"
+],
+[
+"Helsinki",
+"The harbor and cathedral",
+60.1699,
+24.9384,
+"2016-07-18",
+null,
+"itin"
+],
+[
+"St. Petersburg",
+"The Hermitage and Catherine Palace",
+59.9398,
+30.3146,
+"2016-07-19",
+null,
+"itin"
+],
+[
+"Tallinn",
+"Medieval Old Town",
+59.437,
+24.7536,
+"2016-07-22",
+null,
+"itin"
+],
+[
+"Gdańsk",
+"The Long Market",
+54.352,
+18.6466,
+"2016-07-24",
+null,
+"itin"
+],
+[
+"Berlin",
+"A day in Berlin from Warnemünde",
+52.5163,
+13.3777,
+"2016-07-25",
+null,
+"itin"
+],
+[
+"Copenhagen",
+"Nyhavn and the Little Mermaid",
+55.6761,
+12.5683,
+"2016-07-26",
+null,
+"itin"
+],
+[
+"Aalborg",
+"Viking history",
+57.0488,
+9.9217,
+"2016-07-27",
+null,
+"itin"
+],
+[
+"Flåm",
+"The fjords",
+60.8628,
+7.1137,
+"2016-07-29",
+null,
+"itin"
+],
+[
+"Bergen",
+"Bryggen wharf · journey's end",
+60.3975,
+5.3245,
+"2016-07-30",
+null,
+"itin"
+]
+]
+},
+{
+"key": "cruise17",
+"stops": [
+[
+"Tampa",
+"Boarding the Carnival Paradise",
+27.9506,
+-82.4572,
+"2017-07-08",
+null,
+"itin"
+],
+[
+"Key West",
+"Duval Street and the Southernmost Point",
+24.5551,
+-81.78,
+"2017-07-10",
+null,
+"itin"
+],
+[
+"Cozumel",
+"Pancho's Backyard in San Miguel",
+20.5083,
+-86.9458,
+"2017-07-11",
+null,
+"itin"
+]
+]
+},
+{
+"key": "cruise19",
+"stops": [
+[
+"Tampa",
+"Back aboard the Paradise",
+27.9506,
+-82.4572,
+"2019-04-08",
+null,
+"itin"
+],
+[
+"Havana",
+"Old Havana and the Capitolio",
+23.1356,
+-82.359,
+"2019-04-09",
+null,
+"itin"
+],
+[
+"Cozumel",
+"Beaches and margaritas",
+20.5083,
+-86.9458,
+"2019-04-11",
+null,
+"itin"
+],
+[
+"Key West",
+"One more stop in Key West",
+24.5551,
+-81.78,
+"2019-04-12",
+null,
+"itin"
+]
+]
+},
+{
+"key": "regal",
+"stops": [
+[
+"Barcelona",
+"Casa Milà and the Sagrada Família",
+41.395,
+2.162,
+"2022-07-02",
+"09:22",
+"gps"
+],
+[
+"Gibraltar",
+"The Rock and its apes",
+36.134,
+-5.346,
+"2022-07-04",
+"07:50",
+"gps"
+],
+[
+"Aix-en-Provence",
+"Provence from Marseille",
+43.532,
+5.447,
+"2022-07-06",
+"09:19",
+"gps"
+],
+[
+"Rapallo & Portofino",
+"The Italian Riviera from Genoa",
+44.347,
+9.228,
+"2022-07-07",
+"10:04",
+"gps"
+],
+[
+"Florence",
+"Giotto's Campanile and the Duomo",
+43.778,
+11.259,
+"2022-07-08",
+"10:13",
+"gps"
+],
+[
+"Rome",
+"The Arch of Constantine and the Vatican",
+41.888,
+12.49,
+"2022-07-09",
+"08:55",
+"gps"
+],
+[
+"Sorrento & Pompeii",
+"From the port of Naples",
+40.65,
+14.411,
+"2022-07-10",
+"08:57",
+"gps"
+],
+[
+"At sea",
+"Crossing the Ionian Sea",
+37.093,
+18.827,
+"2022-07-11",
+"12:57",
+"gps"
+],
+[
+"Knossos, Crete",
+"The Minoan Palace",
+35.298,
+25.162,
+"2022-07-12",
+"10:17",
+"gps"
+],
+[
+"Agios Nikolaos, Crete",
+"Elounda and Spinalonga",
+35.192,
+25.721,
+"2022-07-12",
+"13:02",
+"gps"
+],
+[
+"Ephesus",
+"The Library of Celsus",
+37.911,
+27.334,
+"2022-07-13",
+"08:09",
+"gps"
+],
+[
+"Istanbul",
+"Topkapı Palace and Hagia Sophia",
+41.004,
+28.978,
+"2022-07-14",
+"09:58",
+"gps"
+],
+[
+"Mykonos",
+"The waterfront and windmills",
+37.455,
+25.329,
+"2022-07-15",
+"14:07",
+"gps"
+],
+[
+"Athens",
+"The Acropolis",
+37.97,
+23.722,
+"2022-07-16",
+"11:23",
+"gps"
+]
+]
+}
+],
+"extra": [
+{
+"title": "Paris to the Swiss Alps",
+"dates": "August 2023",
+"stops": [
+[
+"Paris",
+"Start of the 2023 trip",
+48.8566,
+2.3522,
+"2023-08",
+"",
+null
+],
+[
+"Swiss Alps",
+"Into the mountains",
+46.62,
+8.04,
+"2023-08",
+"",
+null
+]
+]
+}
+],
+"other": [
+{
+"key": "hollywood1937",
+"title": "Hollywood, California",
+"year": 1937,
+"stops": [
+[
+"Hollywood",
+"Vivian's brother Fred with Betty, Teddy and Sue",
+34.0928,
+-118.3287,
+"1937",
+null,
+"book"
+]
+],
+"pids": [
+95
+],
+"movies": [],
+"sub": "",
+"virtual": true
+},
+{
+"key": "lewiston1951",
+"title": "Little Wolf Lake cabin",
+"year": 1951,
+"stops": [
+[
+"Lewiston, Michigan",
+"Grandma Gertrude and Gene's cabin, 1951–1957",
+44.8842,
+-84.3053,
+"1951",
+null,
+"book"
+]
+],
+"pids": [
+191,
+192
+],
+"movies": [],
+"sub": "",
+"virtual": true
+},
+{
+"key": "texasoh",
+"title": "French Family cottage",
+"year": 1930,
+"stops": [
+[
+"Texas, Ohio",
+"The cottage on the Maumee River",
+41.3567,
+-83.9205,
+"1930",
+null,
+"book"
+]
+],
+"pids": [
+74
+],
+"movies": [],
+"sub": "",
+"virtual": true
+},
+{
+"key": "cal1968",
+"title": "California",
+"year": 1968,
+"stops": [
+[
+"Los Angeles",
+"Tom, Elaine, Ginger (expecting Eric) and friends",
+34.0522,
+-118.2437,
+"1968",
+null,
+"book"
+]
+],
+"pids": [
+348
+],
+"movies": [],
+"sub": "",
+"virtual": true
+},
+{
+"key": "hawaii1968",
+"title": "Hawaii",
+"year": 1968,
+"stops": [
+[
+"Honolulu",
+"Hawaii 1968",
+21.3069,
+-157.8583,
+"1968",
+null,
+"book"
+]
+],
+"pids": [
+593
+],
+"movies": [],
+"sub": "",
+"virtual": true
+},
+{
+"key": "smoky1981",
+"title": "Smoky Mountain vacation",
+"year": 1981,
+"stops": [
+[
+"Gatlinburg",
+"Smoky Mountain vacation",
+35.7143,
+-83.5102,
+"1981",
+null,
+"book"
+]
+],
+"pids": [
+591
+],
+"movies": [],
+"sub": "",
+"virtual": true
+},
+{
+"key": "ecarib1989",
+"title": "Eastern Caribbean cruise",
+"year": 1989,
+"stops": [
+[
+"Miami",
+"Sailing out",
+25.7617,
+-80.1918,
+"1989",
+null,
+"book"
+],
+[
+"San Juan",
+"Puerto Rico",
+18.4655,
+-66.1057,
+"1989",
+null,
+"book"
+],
+[
+"St. Thomas",
+"U.S. Virgin Islands",
+18.3419,
+-64.9307,
+"1989",
+null,
+"book"
+],
+[
+"Miami",
+"Home",
+25.7617,
+-80.1918,
+"1989",
+null,
+"book"
+]
+],
+"pids": [
+595
+],
+"movies": [],
+"sub": "",
+"virtual": true
+},
+{
+"key": "northport1990",
+"title": "North Port, Florida",
+"year": 1990,
+"stops": [
+[
+"North Port",
+"Vacationing in Florida",
+27.0442,
+-82.2359,
+"1990",
+null,
+"book"
+]
+],
+"pids": [
+505,
+320
+],
+"movies": [],
+"sub": "",
+"virtual": true
+},
+{
+"key": "ftmyers1997",
+"title": "Ft. Myers Beach",
+"year": 1997,
+"stops": [
+[
+"Fort Myers Beach",
+"April 1997",
+26.452,
+-81.9481,
+"1997-04",
+null,
+"book"
+]
+],
+"pids": [],
+"movies": [
+"XQRUUYlEFjo"
+],
+"sub": "",
+"virtual": true
+},
+{
+"key": "mexriviera1997",
+"title": "Mexican Riviera, New Year's",
+"year": 1997,
+"stops": [
+[
+"Los Angeles",
+"Sailing out",
+33.7405,
+-118.2714,
+"1997-12",
+null,
+"book"
+],
+[
+"Cabo San Lucas",
+"",
+22.8905,
+-109.9167,
+"1997-12",
+null,
+"book"
+],
+[
+"Mazatlán",
+"",
+23.2494,
+-106.4111,
+"1997-12",
+null,
+"book"
+],
+[
+"Puerto Vallarta",
+"",
+20.6534,
+-105.2253,
+"1998-01",
+null,
+"book"
+]
+],
+"pids": [
+563,
+824
+],
+"movies": [],
+"sub": "",
+"virtual": true
+},
+{
+"key": "smoky1998",
+"title": "Smoky Mountains",
+"year": 1998,
+"stops": [
+[
+"Gatlinburg",
+"Andrew's first birthday trip, August 1998",
+35.7143,
+-83.5102,
+"1998-08",
+null,
+"book"
+]
+],
+"pids": [],
+"movies": [
+"OuOXct-cxos"
+],
+"sub": "",
+"virtual": true
+},
+{
+"key": "hilton1999",
+"title": "Hilton Head",
+"year": 1999,
+"stops": [
+[
+"Hilton Head Island",
+"May–June 1999",
+32.2163,
+-80.7526,
+"1999-06",
+null,
+"book"
+]
+],
+"pids": [],
+"movies": [
+"K0lIz-FSGl0",
+"R7n5pP_4k9s"
+],
+"sub": "",
+"virtual": true
+},
+{
+"key": "hawaii2000",
+"title": "Hawaiian cruise",
+"year": 2000,
+"stops": [
+[
+"Honolulu",
+"Art and Ginger",
+21.3069,
+-157.8583,
+"2000",
+null,
+"book"
+],
+[
+"Maui",
+"",
+20.7984,
+-156.3319,
+"2000",
+null,
+"book"
+],
+[
+"Kauai",
+"",
+22.0964,
+-159.5261,
+"2000",
+null,
+"book"
+]
+],
+"pids": [
+453
+],
+"movies": [],
+"sub": "",
+"virtual": true
+},
+{
+"key": "scarib2001",
+"title": "Southern Caribbean cruise",
+"year": 2001,
+"stops": [
+[
+"San Juan",
+"Art, Tom, Ginger, Danielle and Elaine",
+18.4655,
+-66.1057,
+"2001",
+null,
+"book"
+],
+[
+"Barbados",
+"",
+13.0969,
+-59.6145,
+"2001",
+null,
+"book"
+],
+[
+"St. Lucia",
+"",
+13.9094,
+-60.9789,
+"2001",
+null,
+"book"
+],
+[
+"Aruba",
+"",
+12.5211,
+-69.9683,
+"2001",
+null,
+"book"
+]
+],
+"pids": [
+588,
+809
+],
+"movies": [],
+"sub": "",
+"virtual": true
+},
+{
+"key": "disney2002",
+"title": "Disney World",
+"year": 2002,
+"stops": [
+[
+"Orlando",
+"Walt Disney World, July 2002",
+28.3852,
+-81.5639,
+"2002-07",
+null,
+"book"
+]
+],
+"pids": [
+930
+],
+"movies": [
+"pmnu0xO8cTQ"
+],
+"sub": "",
+"virtual": true
+},
+{
+"key": "hawaii2003",
+"title": "Hawaiian cruise",
+"year": 2003,
+"stops": [
+[
+"Honolulu",
+"Hawaiian Cruise 2003",
+21.3069,
+-157.8583,
+"2003",
+null,
+"book"
+],
+[
+"Maui",
+"",
+20.7984,
+-156.3319,
+"2003",
+null,
+"book"
+],
+[
+"Hilo",
+"",
+19.7241,
+-155.0868,
+"2003",
+null,
+"book"
+]
+],
+"pids": [
+589
+],
+"movies": [
+"8boBnT4xC1o"
+],
+"sub": "",
+"virtual": true
+},
+{
+"key": "bermuda2006",
+"title": "Bermuda",
+"year": 2006,
+"stops": [
+[
+"Hamilton",
+"Bermuda 2006",
+32.2949,
+-64.7814,
+"2006",
+null,
+"book"
+]
+],
+"pids": [
+410
+],
+"movies": [],
+"sub": "",
+"virtual": true
+},
+{
+"key": "ftmyers2008",
+"title": "Ft. Myers Beach",
+"year": 2008,
+"stops": [
+[
+"Fort Myers Beach",
+"Bryan French family, 2008",
+26.452,
+-81.9481,
+"2008",
+null,
+"book"
+]
+],
+"pids": [
+815
+],
+"movies": [],
+"sub": "",
+"virtual": true
+},
+{
+"key": "croatia2009",
+"title": "Croatia",
+"year": 2009,
+"stops": [
+[
+"Dubrovnik",
+"Tom and Elaine, 2009",
+42.6507,
+18.0944,
+"2009",
+null,
+"book"
+]
+],
+"pids": [
+380
+],
+"movies": [],
+"sub": "",
+"virtual": true
+},
+{
+"key": "bahamas2014",
+"title": "Bahamas cruise",
+"year": 2014,
+"stops": [
+[
+"Nassau",
+"Bahamas Cruise 2014",
+25.048,
+-77.3554,
+"2014",
+null,
+"book"
+]
+],
+"pids": [
+862
+],
+"movies": [],
+"sub": "",
+"virtual": true
+},
+{
+"key": "chicago2015",
+"title": "Chicago",
+"year": 2015,
+"stops": [
+[
+"Chicago",
+"Visiting Brad — Sheraton Dr 2015; Hamilton and dinner 2017",
+41.8781,
+-87.6298,
+"2015",
+null,
+"book"
+]
+],
+"pids": [
+560,
+361
+],
+"movies": [],
+"sub": "",
+"virtual": true
+},
+{
+"key": "wcarib2015",
+"title": "Western Caribbean family cruise",
+"year": 2015,
+"stops": [
+[
+"Tampa",
+"Sailing out",
+27.9506,
+-82.4572,
+"2015",
+null,
+"book"
+],
+[
+"Cozumel",
+"",
+20.423,
+-86.9223,
+"2015",
+null,
+"book"
+],
+[
+"Grand Cayman",
+"",
+19.3133,
+-81.2546,
+"2015",
+null,
+"book"
+],
+[
+"Jamaica",
+"Falmouth",
+18.4917,
+-77.6559,
+"2015",
+null,
+"book"
+]
+],
+"pids": [
+364,
+384,
+377,
+939
+],
+"movies": [],
+"sub": "",
+"virtual": true
+},
+{
+"key": "florida2017",
+"title": "Trinity, Florida",
+"year": 2017,
+"stops": [
+[
+"Trinity",
+"Art and Ginger's home, 7414 Whiskfern Rd",
+28.1808,
+-82.6793,
+"2017",
+null,
+"book"
+]
+],
+"pids": [
+946,
+928
+],
+"movies": [],
+"sub": "",
+"virtual": true
+},
+{
+"key": "hawaii2018",
+"title": "Hawaiian cruise",
+"year": 2018,
+"stops": [
+[
+"Honolulu",
+"Kelsey and Carson with Nana and Papa",
+21.3069,
+-157.8583,
+"2018",
+null,
+"book"
+],
+[
+"Maui",
+"",
+20.7984,
+-156.3319,
+"2018",
+null,
+"book"
+],
+[
+"Kona",
+"",
+19.64,
+-155.9969,
+"2018",
+null,
+"book"
+]
+],
+"pids": [
+411
+],
+"movies": [],
+"sub": "",
+"virtual": true
+},
+{
+"key": "paris2023",
+"title": "Paris to the Swiss Alps",
+"year": 2023,
+"stops": [
+[
+"Paris",
+"Start of the 2023 trip",
+48.8566,
+2.3522,
+"2023-08",
+null,
+"book"
+],
+[
+"Lucerne",
+"",
+47.0502,
+8.3093,
+"2023-08",
+null,
+"book"
+],
+[
+"Interlaken",
+"Into the mountains",
+46.6863,
+7.8632,
+"2023-08",
+null,
+"book"
+],
+[
+"Zermatt",
+"",
+46.0207,
+7.7491,
+"2023-08",
+null,
+"book"
+]
+],
+"pids": [],
+"movies": [],
+"sub": "Slideshow: https://claude.ai/artifact/WRiH7F8qi3CzKr8hA1fFZQ",
+"virtual": true
+}
+]
+}
